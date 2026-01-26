@@ -6,14 +6,14 @@
   />
 </p>
 
-<br/>
-
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=i-am-dahee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1"
-    height="150"
-    alt="stats graph"
-  />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-dahee&theme=dracula&show_icons=true" />
+  </a>
+  
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-dahee&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  </a>
 
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=i-am-dahee&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=false&bg_color=00000"
