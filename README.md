@@ -1,11 +1,3 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=i-am-dahee&reversal=false&textBg=false&fontSize=35&fontAlign=50&animation=twinkling&rotate=0&descAlign=50"
-    alt="i-am-dahee capsule header"
-    width="100%"
-  />
-</p>
-
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=i-am-dahee&theme=dracula&show_icons=true" />
